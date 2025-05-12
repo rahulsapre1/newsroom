@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/newsroom/__init__.py
+src/newsroom/content_extractor.py
+src/newsroom/news_search.py
+src/newsroom/summarizer.py
+src/newsroom.egg-info/PKG-INFO
+src/newsroom.egg-info/SOURCES.txt
+src/newsroom.egg-info/dependency_links.txt
+src/newsroom.egg-info/requires.txt
+src/newsroom.egg-info/top_level.txt

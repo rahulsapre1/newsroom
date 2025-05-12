@@ -1,0 +1,5 @@
+google-search-results==2.4.2
+litellm==1.69.0
+requests==2.32.3
+beautifulsoup4==4.13.4
+python-dotenv==1.1.0
